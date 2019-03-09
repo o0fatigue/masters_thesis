@@ -1,0 +1,92 @@
+\begin{thebibliography}{}
+
+\bibitem[Almeida et~al., 2011]{spam}
+Almeida, T.~A., Hidalgo, J. M.~G., and Yamakami, A. (2011).
+\newblock Contributions to the study of sms spam filtering: New collection and
+  results.
+\newblock {\em Proceedings of the 2011 ACM Symposium on Document Engineering
+  (DOCENG'11)}.
+
+\bibitem[Bengio et~al., 2009]{curriculum}
+Bengio, Y., Louradour, J., Collobert, R., and Weston, J. (2009).
+\newblock Curriculum learning.
+\newblock {\em Proceedings of the 26th annual international conference on
+  machine learning}.
+
+\bibitem[Jorger et~al., 2016]{enumerate}
+Jorger, P., Baba, Y., and Kashima, H. (2016).
+\newblock Learning to enumerate.
+\newblock {\em Artificial Neural Networks and Machine Learning}.
+
+\bibitem[Kashima et~al., 2015]{predictive}
+Kashima, Y. B.~H., Nohara, Y., Kai, E., Ghosh, P., Islam, R., Ahmed, A.,
+  Kuruda, M., Inoue, S., Hiramatsu, T., Kimura, M., Shimizu, S., Kobayashi, K.,
+  Tsuda, K., Sugiyama, M., Blondel, M., Ueda, N., Kitsuregawa, M., and
+  Nakashima, N. (2015).
+\newblock Predictive approaches for low-cost preventive medicine program in
+  developing countries.
+\newblock {\em Proceedings of the 21st ACM SIGKDD International Conference on
+  Knowledge Discovery and Data Mining}, pages 1681--1690.
+
+\bibitem[Konyushkova and Raphael, 2017]{lal}
+Konyushkova, K. and Raphael, S. (2017).
+\newblock Learning active learning from data.
+\newblock {\em 31st Conference on Neural Information Processing Systems}.
+
+\bibitem[Krishnakumar, 2007]{survey}
+Krishnakumar, A. (2007).
+\newblock Active learning literature survey.
+
+\bibitem[Lang and Baum, 1992]{membership}
+Lang, K. and Baum, E. (1992).
+\newblock Query learning can work poorly when a human oracle is used.
+\newblock {\em Proceedings of the IEEE International Joint Conference on Neural
+  Networks}, pages 335--340.
+
+\bibitem[Lewis and Gale, 1994]{uncertainty}
+Lewis, D.~D. and Gale, W.~A. (1994).
+\newblock A sequential algorithm for training text classifiers.
+\newblock {\em SIGIR 94: Proceedings of Seventeenth Annual International
+  ACM-SIGIR Conference on Research and Development in Information Retrieval}.
+
+\bibitem[Maas et~al., 2011]{imdb}
+Maas, A.~L., Daly, R.~E., Pham, P.~T., Huang, D., Ng, A.~Y., and Potts, C.
+  (2011).
+\newblock Learning word vectors for sentiment analysis.
+\newblock {\em Proceedings of the 49th Annual Meeting of the Association for
+  Computational Linguistics: Human Language Technologies}.
+
+\bibitem[Osugi et~al., 2005]{exploration}
+Osugi, T., Kun, D., and Scott, S. (2005).
+\newblock Balancing exploration and exploitation: A new algorithm for active
+  machine learning.
+\newblock {\em International Conference on Data Mining}.
+
+\bibitem[Pedregosa et~al., 2011]{sklearn}
+Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel,
+  O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J.,
+  Passos, A., Cournapeau, D., Brucher, M., Perrot, M., and Duchesnay, E.
+  (2011).
+\newblock Scikit-learn: Machine learning in python.
+\newblock {\em Journal of Machine Learning Research}, 12:2825--2830.
+
+\bibitem[Salton and Buckley, 1990]{relevance}
+Salton, G. and Buckley, C. (1990).
+\newblock Improving retrieval performance by relevance feedback.
+\newblock {\em Journal of the American Society for Information Science}.
+
+\bibitem[Schakel and Wilson, 2015]{norm}
+Schakel, A. M.~J. and Wilson, B.~J. (2015).
+\newblock Measuring word significance using distributed representations of
+  words.
+
+\bibitem[Settles, 2009]{settles}
+Settles, B. (2009).
+\newblock Active learning literature survey.
+
+\bibitem[Utgoff, 1989]{incremental}
+Utgoff, P.~E. (1989).
+\newblock Improved training via incremental learning.
+\newblock {\em Sixth International Workshop on Machine Learning}.
+
+\end{thebibliography}
